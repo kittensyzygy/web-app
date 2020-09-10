@@ -27,7 +27,7 @@ These are the Markdown annotations you'll likely need when formatting content fo
 There isn't a special annotiation for paragraphs. However, to distinguish paragraphs from each other, you need one blank line between them. When writing a definition, your code will look like this, for instance:
 
 ```
-This is the first paragraph. Its followed by one blank line to separate it from the next paragraph.
+This is the first paragraph. It's followed by one blank line to separate it from the next paragraph.
 
 This is the second paragraph. There is a blank line before it to separate it form the previous paragraph.
 ```

@@ -29,7 +29,7 @@ There isn't a special annotiation for paragraphs. However, to distinguish paragr
 ```
 This is the first paragraph. It's followed by one blank line to separate it from the next paragraph.
 
-This is the second paragraph. There is a blank line before it to separate it form the previous paragraph.
+This is the second paragraph. There is a blank line before it to separate it from the previous paragraph.
 ```
 
 ## Styling text

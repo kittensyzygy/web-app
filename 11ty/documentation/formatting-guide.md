@@ -133,7 +133,7 @@ Type this: | ... to get this:
 You can use this "backslash escape", to ignore formatting, on the following symbols:
 
 Symbol | Name
--------|------
+:-----:|------
 \ | backslash
 \` | backtick
 \* | asterisk

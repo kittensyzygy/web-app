@@ -129,23 +129,36 @@ Type this: | ... to get this:
 --------------|-----------------
 `\* This has an asterisk before it, not a bullet point.` | \* This has an asterisk before it, not a bullet point.
 
-You can use this "backslash escape" on the following symbols:
+You can use this "backslash escape" to, ignore formatting, on the following symbols:
 
-* \   backslash
-* \`   backtick
-* *   asterisk
-* _   underscore
-* {}  curly braces
-* \[]  square brackets
-* ()  parentheses
-* #   hash mark
-* +   plus sign
-* -   minus sign (hyphen)
-* .   dot
-* !   exclamation mark
+Symbol | Name
+-------|------
+\ | backslash
+\` | backtick
+\* | asterisk
+_ | underscore
+{} | curly braces
+\[] | square brackets
+() | round brackets/parentheses
+\# | hash mark
+\+ | plus sign
+\- | minus sign (hyphen)
+. | dot
+! | exclamation mark
 
 ## Troubleshooting
 
 When trying to add or update a page on the site, you might encounter an error message if the formatting is not right. For example, if you don't include a blank line before a list, you will receive an error message like this: "MD032 - Lists should be surrounded by blank lines". The error message might give you enough information to correct the problem; otherwise, you can check for the error code in this [list of Markdown lint-tool rules](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md)* and read the information there. If you're still having trouble, ask for help in the [Slack group](https://join.slack.com/t/selfdefined/shared_invite/zt-fczgm8b6-8ZZgHvLutNDXo~NjwaL7Iw).
 
 \* A lint tool check to see if code in a file is written correctly. It's useful to help developers find and correct errors before a webpage is made public.
+
+## Resources
+
+This guide should help you write definitions for *Self-Described*. However, should you want to know more about Markdown, see the following resources:
+
+* [CommonMark website](https://commonmark.org/)
+  * [Learn Markdown in 60 seconds](https://commonmark.org/help/)
+  * [Ten minute Markdown tutorial](https://commonmark.org/help/tutorial/)
+* GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* GitHub's [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+* John Gruber's [Markdown](https://daringfireball.net/projects/markdown/) guide (John invented Markdown with Aaron Swartz)

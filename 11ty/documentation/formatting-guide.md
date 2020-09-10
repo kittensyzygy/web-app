@@ -143,7 +143,7 @@ _ | underscore
 ( ) | round brackets/parentheses
 \# | hash mark
 \+ | plus sign
-\- | minus sign (hyphen)
+\- | minus sign/hyphen
 . | dot
 ! | exclamation mark
 

@@ -138,9 +138,9 @@ Symbol | Name
 \` | backtick
 \* | asterisk
 _ | underscore
-{} | curly braces
-\[] | square brackets
-() | round brackets/parentheses
+{ } | curly braces
+\[ ] | square brackets
+( ) | round brackets/parentheses
 \# | hash mark
 \+ | plus sign
 \- | minus sign (hyphen)

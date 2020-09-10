@@ -130,7 +130,7 @@ Type this: | ... to get this:
 --------------|-----------------
 `\* This has an asterisk before it, not a bullet point.` | \* This has an asterisk before it, not a bullet point.
 
-You can use this "backslash escape" to, ignore formatting, on the following symbols:
+You can use this "backslash escape", to ignore formatting, on the following symbols:
 
 Symbol | Name
 -------|------

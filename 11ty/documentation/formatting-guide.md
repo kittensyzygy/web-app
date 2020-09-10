@@ -151,7 +151,7 @@ _ | underscore
 
 When trying to add or update a page on the site, you might encounter an error message if the formatting is not right. For example, if you don't include a blank line before a list, you will receive an error message like this: "MD032 - Lists should be surrounded by blank lines". The error message might give you enough information to correct the problem; otherwise, you can check for the error code in this [list of Markdown lint-tool rules](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md)* and read the information there. If you're still having trouble, ask for help in the [Slack group](https://join.slack.com/t/selfdefined/shared_invite/zt-fczgm8b6-8ZZgHvLutNDXo~NjwaL7Iw).
 
-\* A lint tool check to see if code in a file is written correctly. It's useful to help developers find and correct errors before a webpage is made public.
+\* A lint tool checks to see if code in a file is written correctly. It's useful to help developers find and correct errors before a webpage is made public.
 
 ## Resources
 

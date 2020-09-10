@@ -17,6 +17,7 @@ Definitions on *Self-Defined* are formatted using the markup language Markdown. 
   * [Lists](#)
 * [Ignoring Markdown formatting](#)
 * [Troubleshooting](#)
+* [Resources](#)
 
 ## Formatting
 

@@ -160,6 +160,6 @@ This guide should help you write definitions for *Self-Described*. However, shou
 * [CommonMark website](https://commonmark.org/)
   * [Learn Markdown in 60 seconds](https://commonmark.org/help/)
   * [Ten minute Markdown tutorial](https://commonmark.org/help/tutorial/)
-* GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* GitHub's [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+* GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) website
+* GitHub's [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) documentation
 * John Gruber's [Markdown](https://daringfireball.net/projects/markdown/) guide (John invented Markdown with Aaron Swartz)

@@ -124,7 +124,7 @@ For each list item, type its number followed by a full-stop/period and a space. 
 
 ## Ignoring Markdown formatting
 
-To format text, Markdown uses symbols that have different meanings in other contexts. For example, the hash symbol `#` is used to format headings in Markdown, but outside of Markdown it has other uses: among other things, it's sometimes used to mean "number" or is used to make hashtags on social media. Occasionally, you might write a symbol and Markdown will confuse it for a formatting annotation. If this occurs, you might be able to make Markdown "ignore" the symbol. To do this, type a backslash `\` before the symbol you want Markdown to ignore. For example:
+To format text, Markdown uses symbols (including some not mentioned in this guide) that have different meanings in other contexts. For example, the hash symbol `#` is used to format headings in Markdown, but outside of Markdown it has other uses: among other things, it's sometimes used to mean "number" or is used to make hashtags on social media. Occasionally, you might write a symbol and Markdown will confuse it for a formatting annotation. If this occurs, you might be able to make Markdown "ignore" the symbol. To do this, type a backslash `\` before the symbol you want Markdown to ignore. For example:
 
 Type this: | ... to get this:
 --------------|-----------------

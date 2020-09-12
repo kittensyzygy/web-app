@@ -104,7 +104,7 @@ An unordered list is a list with bullet points. Type an asterisk and space `* ` 
 
 ### Ordered lists
 
-For each list item, type its number followed by a full-stop/period. Each item needs to be on its own line.
+For each list item, type its number followed by a full-stop/period and a space. Each item needs to be on its own line.
 
 **Type this**:
 
